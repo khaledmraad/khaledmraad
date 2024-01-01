@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Khaled Mrad</h1>
-<h3 align="center">IT engineering Student</h3>
+<h3 align="center">IT engineering student</h3>
 
 - 🔭 I’m currently working on **My portfolio Website**
 
