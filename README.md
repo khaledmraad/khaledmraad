@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/khaled-mrad-b1497b18a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled mrad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Khaled.Mrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Khaled.Mrad" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/user1811pN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Khaled.Mrad" height="30" width="40" /></a>
+
 </p>
 
 
